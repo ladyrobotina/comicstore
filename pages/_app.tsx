@@ -25,7 +25,7 @@ const App: React.FC<AppProps> = ({Component, pageProps}) => {
           padding={4}
         >
           <VStack marginBottom={6}>
-            <Image borderRadius={9999} src="//placehold.it/128x128" />
+            <Image borderRadius={9999} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQb_HccIKfAURQa-kFKfdZvOglOhaHI2T2RYnVOdj5vTRELiZkOIPV6KzXPdvNrwtAHY&usqp=CAU" />
             <Heading>El almacen del Androide</Heading>
             <Text>Comic Store</Text>
           </VStack>
