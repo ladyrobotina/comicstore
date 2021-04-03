@@ -4,7 +4,7 @@ Pueden utilizar este codigo para cualquier e-commerce que deseen, tiene cero cos
 
 ## 📱 Screenshot
 
-![calabozo](https://github.com/valerisvso/rick-and-morty-react/blob/master/valerisvso.github.io_rick-and-morty-react_.png)
+![calabozo](https://github.com/valerisvso/comicstore/blob/main/calabozo.jpg)
 
 
 ## 📚 Technical Details
