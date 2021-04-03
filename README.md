@@ -1,3 +1,26 @@
+# El Calabozo del Androide
+
+Pueden utilizar este codigo para cualquier e-commerce que deseen, tiene cero costo de mantenimiento
+
+## 📱 Screenshot
+
+![calabozo](https://github.com/valerisvso/rick-and-morty-react/blob/master/valerisvso.github.io_rick-and-morty-react_.png)
+
+
+## 📚 Technical Details
+```
+Built entirely:
+- Next.js, Typescript, ChakraUI, GoogleSheets
+```
+
+## ⚒ Deploy 
+👉 https://comicstore-three.vercel.app/
+
+## 🙋 Code by me. 
+@valerisvso
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
